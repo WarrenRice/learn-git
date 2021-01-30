@@ -1,8 +1,15 @@
 test app text
 
-git branch -m master main
+git branch -m master main #change name
+
+git log --all --decorate --oneline --graph #see graph
+
+
+
 
 WTF, again
+
+
 
 Add code 
 Add code OKOOKOKKK

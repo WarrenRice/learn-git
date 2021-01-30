@@ -4,8 +4,15 @@ git branch -m master main #change name
 
 git log --all --decorate --oneline --graph #see graph
 
+git checkout -b name_branch
 
+// delete branch locally
+git branch -d localBranchName
 
+// delete branch remotely
+git push origin --delete remoteBranchName
+
+get reflog
 
 WTF, again
 
